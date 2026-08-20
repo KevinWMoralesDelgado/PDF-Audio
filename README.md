@@ -13,9 +13,10 @@ The program runs in three straightforward steps:
 3. **Audio Generation:** Converts the extracted text into audio and saves it as an MP3 file with the same name as your PDF.
 
 ---
-
 ## 🔒 License & Copyright
 
-© 2026 Kevin Morales. All rights reserved.
+This project is free to download, use, and modify for personal and educational purposes. **Commercial use is strictly prohibited.**
 
-This project is personal software. Unauthorized copying, redistribution, or commercial use of this repository or its source code is strictly prohibited without explicit permission from the author.
+Licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE).
+
+© 2026 Kevin Morales
