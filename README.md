@@ -17,6 +17,4 @@ The program runs in three straightforward steps:
 
 This project is free to download, use, and modify for personal and educational purposes. **Commercial use is strictly prohibited.**
 
-Licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](LICENSE).
-
 © 2026 Kevin Morales
